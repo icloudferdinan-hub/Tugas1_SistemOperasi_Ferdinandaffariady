@@ -1,0 +1,1 @@
+# Tugas1_SistemOperasi_Ferdinandaffariady
