@@ -1,3 +1,5 @@
+# Tugas1Praktikum_SistemOperasi_Ferdinandaffariady
+
 1. Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshot-nya
 
 Tahap 1:
